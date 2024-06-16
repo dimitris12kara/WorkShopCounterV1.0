@@ -6,14 +6,11 @@ TODO List:
   3)Add seurity methods of authenticating IDs before editing the database in the server.
 
 Developers:
-  Antoniadis Panagiotis
-  
+
+  Antoniadis Panagiotis  
   Karamanlis Dimitrios
-  
   Koutrakis Kostantinos
-  
   Makaratzis Panagiotis
-  
   Ntonas Antonios
 
   
