@@ -9,14 +9,14 @@ TO-DO List:
 
 Developers:
 
-  Antoniadis Panagiotis
+  Antoniadis Panagiotis, 58566
   
-  Karamanlis Dimitrios
+  Karamanlis Dimitrios, 58576
   
-  Koutrakis Kostantinos
+  Koutrakis Kostantinos, 58701
   
-  Makaratzis Panagiotis
+  Makaratzis Panagiotis, 58743
   
-  Ntonas Antonios
+  Ntonas Antonios, 58568
 
   
