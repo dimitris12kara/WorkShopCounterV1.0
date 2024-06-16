@@ -7,9 +7,13 @@ TODO List:
 
 Developers:
   Antoniadis Panagiotis
+  
   Karamanlis Dimitrios
+  
   Koutrakis Kostantinos
+  
   Makaratzis Panagiotis
+  
   Ntonas Antonios
 
   
