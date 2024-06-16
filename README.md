@@ -1,6 +1,6 @@
 Logging workshop items in csv or txt files.
 
-TODO List: 
+TO-DO List: 
   1)Make the program .exe in auto-py-to-exe.
   
   2)Add Database functionality with pyobdc.
